@@ -1,0 +1,15 @@
+# Secrets
+.env.local
+.env*.local
+
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# AgentCore CLI cache
+.cache/
+.cli/logs/
